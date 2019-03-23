@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Register App</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="date_of_birth">Date Of Birth</string>
+    <string name="register">Register</string>
+    <string name="welcome">Welcome</string>
+    <string name="name">Name</string>
+    <string name="date">Date</string>
+</resources>
